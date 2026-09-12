@@ -1,5 +1,5 @@
 # 💫 About Me:
-Got you — keep **your wording and personality**, just clean up the grammar and make it flow better:<br><br>I’m $$$ILK (my software developer alias). I’m an IT Specialist with three certifications: CompTIA A+, Security+, and the Google IT Support Certificate. I also have extensive experience in software testing. I’m currently working on an important project that I hope to debut soon.<br><br>We all need money, so I put the $$$ in my name.<br>
+I’m $$$ILK (my software developer alias). I’m an IT Specialist with three certifications: CompTIA A+, Security+, and the Google IT Support Certificate. I also have extensive experience in software testing. I’m currently working on an important project that I hope to debut soon.<br><br>We all need money, so I put the $$$ in my name.<br>
 
 
 # 💻 Tech Stack:
