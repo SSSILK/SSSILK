@@ -15,6 +15,11 @@ We all need money, so I put the $$$ in my name.
 
 
 
+![Alt Text](https://imgs.search.brave.com/Frq2h70_Qk-azV11r8e_R8Ltr3LYb1kVfAYlNeBvSJ0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2Q0LzU1/L2QzL2Q0NTVkMzUz/Zjc0MWQ0NjI0NWE4/Mjc4MmUxMWI3NDQ4/LmpwZw
+) 
+
+
+
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white)
 # 📊 GitHub Stats:
@@ -27,9 +32,7 @@ We all need money, so I put the $$$ in my name.
 
 ---
 [![](https://komarev.com/ghpvc/?username=SSSILK&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![Alt Text](https://imgs.search.brave.com/Frq2h70_Qk-azV11r8e_R8Ltr3LYb1kVfAYlNeBvSJ0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2Q0LzU1/L2QzL2Q0NTVkMzUz/Zjc0MWQ0NjI0NWE4/Mjc4MmUxMWI3NDQ4/LmpwZw
-)   
+  
 
 
 
