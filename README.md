@@ -1,3 +1,4 @@
+<img width="1440" height="857" alt="Screenshot 2026-09-27 at 1 18 31 AM" src="https://github.com/user-attachments/assets/eb8cda9e-5944-4396-9e0e-213d482f1463" />
 # 💫 About Me:
 I’m $$$ILK, my software developer alias. I’m an IT Specialist with CompTIA A+, CompTIA Security+, and the Google IT Support Certificate, with an AAS in Computer Programming and extensive experience in software testing.
 
