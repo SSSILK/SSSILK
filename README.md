@@ -39,6 +39,8 @@ We all need money, so I put the $$$ in my name.
 
 <img width="1440" height="857" alt="Screenshot 2026-09-27 at 1 18 31 AM" src="https://github.com/user-attachments/assets/eb8cda9e-5944-4396-9e0e-213d482f1463" />
 
+- Check Out a Preview of My Upcoming Desktop Beta, "VibeBox200: Media Gallery" half of the main application of "VibeBox200".
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
